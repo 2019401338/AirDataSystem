@@ -1,0 +1,35 @@
+body{
+    background-color: #9acfea;
+}
+#num,#name{
+    border-color: cornflowerblue;
+    background-color: #9acfea;
+    height: 30px;
+    -webkit-box-shadow: 0 0 0 1000px #9acfea inset;
+}
+#search{
+    border-color: blue;
+    outline: none;
+    margin: 0;
+    width: 50px;
+    line-height: 30px;
+    background: darkblue;
+}
+#qbx,#qx,#fx,#first,#prev,#next,#last,#dy{
+    border-color: cornflowerblue;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    width: 45px;
+    line-height: 25px;
+    background: darkblue;
+}
+#pl{
+    border-color: cornflowerblue;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    line-height: 25px;
+    background: darkblue;
+}
